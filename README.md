@@ -10,4 +10,4 @@
 
 `📚` Regarding the upcoming orders, the bot is of course in `BETA` and is still in _development_, I encourage you to join the `BetterGuard support server`, in order to be able to report _bugs_ and propose new _commands_.
 
-> SUPPORT SERVER: [discord.gg/betterguard](https://discord.gg/2DPW877r9d)
+> SUPPORT SERVER: [discord.gg/betterguard](https://discord.gg/y22UXaTpbE)
