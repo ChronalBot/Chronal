@@ -10,4 +10,9 @@
 
 `📚` Regarding the upcoming orders, the bot is of course in `BETA` and is still in _development_, I encourage you to join the `Chronal support server`, in order to be able to report _bugs_ and propose new _commands_.
 
-> SUPPORT SERVER: [discord.gg/chronal](https://discord.gg/fK3raMZgak)
+
+
+###Links
+
+- [Discord](https://discord.gg/fK3raMZgak)
+- [TopGG](https://top.gg/fr/bot/807785617274044417/vote)
