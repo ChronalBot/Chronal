@@ -23,7 +23,7 @@
 *   🔧 **Moderation**: `ban`, `kick`, `clear`, `addemoji`, `derank`, `lock`, `unlock`, `mute`,  `tempmute` & **+**! 
 *   🎈 **Utils**: `avatar`, `banner`, `serverinfo`, `userinfo`, `botinfo`, `embed`, `ticket` & **+**! 
 *   💯 **Watch Together**: `youtube`, `betrayal`, `poker`, `fishinf`
-*   🔌 **Config**: `Owner`, `Whitelist`, `setup`, `language`, `config` `logs`, `prefix` et **+**! 
+*   🔌 **Config**: `Owner`, `Whitelist`, `setup`, `language`, `config` `logs`, `prefix` & **+**! 
 *   👑 **Owners**: `server list`, `statut`, `setname`, `setavatar`! 
 
 ---
